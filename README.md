@@ -1,1 +1,4 @@
-# flutter-note
+# appnotes
+
+A new Flutter project.
+
